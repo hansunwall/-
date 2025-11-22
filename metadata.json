@@ -1,0 +1,5 @@
+{
+  "name": "DJ Turntable Simulator",
+  "description": "An interactive DJ turntable simulator. Features realistic, angle-based scratching, pitch control, and authentic controls. Load your own audio track and start mixing.",
+  "requestFramePermissions": []
+}
